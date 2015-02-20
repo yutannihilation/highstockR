@@ -1,0 +1,11 @@
+Package: highstockR
+Type: Package
+Title: Draw highstock charts
+Version: 0.0.1
+Date: 2015-02-21
+Author: Hiroaki Yutani
+Maintainer: Hiroaki Yutani <yutani.ini@gmail.com>
+Description: Draw highstock charts
+Imports:
+  htmlwidgets
+License: WTFPL (highstock is provided in CC BY-NC by Highsoft)

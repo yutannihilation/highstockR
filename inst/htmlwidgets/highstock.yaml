@@ -1,0 +1,12 @@
+dependencies:
+- name: jquery
+  version: 2.1.3
+  src: htmlwidgets/lib/jquery
+  script: dist/jquery.min.js
+- name: highstock
+  version: 2.1.0
+  src: htmlwidgets/lib/highstock-release
+  script:
+  - highstock.js
+  - highcharts-more.js
+  - modules/exporting.js
