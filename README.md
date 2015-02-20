@@ -13,7 +13,7 @@ provided under [CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/) licens
 
 # What is Tokyo.R?
 
-Tokyo.R is a reginal R meetup at Tokyo in Japan. Some report articles are available on R-bloggers.
+Tokyo.R is a reginal R meetup at Tokyo in Japan. Some [report articles](http://www.r-bloggers.com/tokyo-based-r-meetup-tokyor-45/) are available on R-bloggers.
 
 # Installation
 
