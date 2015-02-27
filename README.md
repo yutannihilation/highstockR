@@ -13,7 +13,7 @@ provided under [CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/) licens
 
 ## Think twice before using this!!!
 
-A Highsoft software product is not free for commercial use. For more details, plsese see http://shop.highsoft.com/faq/non-commercial#what-is-non-commercial .
+A Highsoft software product is not free for commercial use. For more details, please see http://shop.highsoft.com/faq/non-commercial#what-is-non-commercial .
 
 # What is Tokyo.R?
 
