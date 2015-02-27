@@ -11,6 +11,10 @@ demonstration purpose at 46th Tokyo.R meeting.
 [highstock](http://www.highcharts.com/stock/demo) is a wonderful Javascript library by Highsoft, 
 provided under [CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/) license.
 
+## Think twice before using this!!!
+
+A Highsoft software product is not free for commercial use. For more details, plsese see http://shop.highsoft.com/faq/non-commercial#what-is-non-commercial .
+
 # What is Tokyo.R?
 
 Tokyo.R is a reginal R meetup at Tokyo in Japan. Some [report articles](http://www.r-bloggers.com/tokyo-based-r-meetup-tokyor-45/) are available on R-bloggers.
