@@ -5,7 +5,7 @@ Version: 0.0.1
 Date: 2015-02-21
 Author: Hiroaki Yutani
 Maintainer: Hiroaki Yutani <yutani.ini@gmail.com>
-Description: Draw highstock charts
+Description: Draw highstock charts. Highstock is a product by Highsoft.
 Imports:
   htmlwidgets
-License: WTFPL (highstock is provided in CC BY-NC by Highsoft)
+License: CC BY-NC (A Highsoft software product is not free for commercial use. See http://shop.highsoft.com/faq/non-commercial#what-is-non-commercial)
